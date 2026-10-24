@@ -1,0 +1,12 @@
+aiohttp>=3.10
+kurigram>=2.2.25
+ntgcalls==3.0.0rc1
+py-tgcalls==3.0.0rc1
+pillow>=10.1
+psutil>=6.0
+pymongo>=4.13
+python-dotenv>=1.0
+yt-dlp[default]>=2026.8.19
+py-yt-search          # optional: second search provider for the race
+orjson>=3.10          # optional: faster JSON
+uvloop>=0.20; sys_platform != "win32"   # optional: faster event loop

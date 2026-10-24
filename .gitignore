@@ -1,0 +1,8 @@
+.env
+*.session*
+__pycache__/
+downloads/
+cache/
+data/
+cookies/*.txt
+flashbeat.log*
